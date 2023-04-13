@@ -24,6 +24,7 @@ The following terms should be passed from the Example,
 - hit the following command:```mvn clean test```
 
 ## Report:
+![1](https://user-images.githubusercontent.com/96409251/231618269-aef43460-9ade-4e9c-a576-2cb613f12a18.jpg)
 
 ## Video Output:
 https://drive.google.com/drive/my-drive
